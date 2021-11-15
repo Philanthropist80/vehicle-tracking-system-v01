@@ -1,0 +1,82 @@
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-14T19:27:33.291Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-14T19:27:33.295Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-14T19:30:51.439Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-14T19:30:51.440Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-14T19:36:13.823Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-14T19:36:13.824Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-14T19:37:12.746Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-14T19:37:12.746Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-14T19:38:14.463Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-14T19:38:14.465Z"}
+{"level":"info","message":"Method:GET Path:/dashboard Request Body:{}","timestamp":"2021-11-14T19:38:30.132Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-14T19:38:30.133Z"}
+{"level":"info","message":"Method:GET Path:/dist/5263a8038b123d8ef1a6.hot-update.json Request Body:{}","timestamp":"2021-11-15T06:19:28.902Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T06:19:28.904Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\",\"first_name\":\"Talha\",\"last_name\":\"Taimoor\"}","timestamp":"2021-11-15T06:21:56.891Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T06:21:56.893Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-15T06:21:59.944Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T06:21:59.945Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-15T06:36:05.053Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T06:36:05.055Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{\"email\":\"amir@khan.com\",\"password\":\"123456\",\"first_name\":\"Amir\",\"last_name\":\"Khan\"}","timestamp":"2021-11-15T07:23:22.693Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:23:22.695Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-15T07:24:39.349Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:24:39.350Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{}","timestamp":"2021-11-15T07:27:04.746Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:27:04.747Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{}","timestamp":"2021-11-15T07:28:03.479Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:28:03.480Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{}","timestamp":"2021-11-15T07:28:54.182Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:28:54.183Z"}
+{"level":"info","message":"Method:GET Path:/api/swagger Request Body:{}","timestamp":"2021-11-15T07:31:32.896Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:31:32.897Z"}
+{"level":"info","message":"Method:GET Path:/api/swagger.json Request Body:{}","timestamp":"2021-11-15T07:31:42.936Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:31:42.937Z"}
+{"level":"info","message":"Method:GET Path:/api/swagger.json Request Body:{}","timestamp":"2021-11-15T07:31:45.436Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:31:45.436Z"}
+{"level":"info","message":"Method:GET Path:/api/swagger Request Body:{}","timestamp":"2021-11-15T07:32:11.217Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:32:11.217Z"}
+{"level":"info","message":"Method:GET Path:/swagger.json Request Body:{}","timestamp":"2021-11-15T07:32:16.803Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:32:16.806Z"}
+{"level":"info","message":"Method:GET Path:/swagger.json Request Body:{}","timestamp":"2021-11-15T07:32:27.117Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:32:27.119Z"}
+{"level":"info","message":"Method:GET Path:/swagger.json Request Body:{}","timestamp":"2021-11-15T07:32:43.049Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:32:43.049Z"}
+{"level":"info","message":"Method:GET Path:/api/swagger/ Request Body:{}","timestamp":"2021-11-15T07:37:37.720Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:37:37.722Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T07:51:13.557Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:51:13.560Z"}
+{"level":"info","message":"Method:GET Path:/dist/94f0991fd50498fb40ef.hot-update.json Request Body:{}","timestamp":"2021-11-15T07:53:37.482Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:53:37.484Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T07:53:46.080Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:53:46.081Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T07:55:35.540Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:55:35.541Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T07:57:36.597Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T07:57:36.599Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T08:01:48.547Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:01:48.550Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T08:04:50.315Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:04:50.316Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T08:09:37.181Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:09:37.181Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T08:12:59.269Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:12:59.272Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T08:17:10.485Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:17:10.487Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T08:18:02.225Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:18:02.226Z"}
+{"level":"info","message":"Method:GET Path:/dashboard Request Body:{}","timestamp":"2021-11-15T08:18:19.371Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:18:19.372Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-15T08:18:29.598Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:18:29.599Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"talha@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-15T08:20:11.025Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:20:11.026Z"}
+{"level":"info","message":"Method:GET Path:/dist/df10b7ead73d52a75343.hot-update.json Request Body:{}","timestamp":"2021-11-15T08:30:51.637Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:30:51.639Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{\"email\":\"anaya@khan.com\",\"password\":\"tab123\",\"first_name\":\"Anaya\",\"last_name\":\"Khan\"}","timestamp":"2021-11-15T08:31:04.321Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:31:04.321Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"anaya@khan.com\",\"password\":\"tab123\"}","timestamp":"2021-11-15T08:31:09.957Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:31:09.958Z"}
+{"level":"info","message":"Method:GET Path:/public/css/main.css Request Body:{}","timestamp":"2021-11-15T08:48:07.420Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-15T08:48:07.424Z"}

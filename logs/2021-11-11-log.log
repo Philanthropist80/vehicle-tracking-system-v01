@@ -1,0 +1,22 @@
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-11T15:26:52.338Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:26:52.341Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-11T15:26:56.364Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:26:56.365Z"}
+{"level":"info","message":"Method:GET Path:/signup Request Body:{}","timestamp":"2021-11-11T15:33:42.524Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:33:42.527Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-11T15:33:44.127Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:33:44.128Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{\"first_name\":\"Taimoor\",\"last_name\":\"Adil\",\"email\":\"taimurad@hotmail.com\",\"password\":\"tab123\"}","timestamp":"2021-11-11T15:33:58.596Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:33:58.598Z"}
+{"level":"info","message":"Method:GET Path:/signup Request Body:{}","timestamp":"2021-11-11T15:43:59.899Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:43:59.903Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-11T15:44:37.056Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:44:37.057Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{\"first_name\":\"Taimoor\",\"last_name\":\"Adil\",\"email\":\"taimurad@hotmail.com\",\"password\":\"tab123\"}","timestamp":"2021-11-11T15:44:56.072Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:44:56.073Z"}
+{"level":"info","message":"Method:GET Path:/signup Request Body:{}","timestamp":"2021-11-11T15:48:11.143Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:48:11.145Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-11T15:48:12.442Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:48:12.443Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{\"first_name\":\"Taimoor\",\"last_name\":\"Adil\",\"email\":\"taimurad@hotmail.com\",\"password\":\"tab123\"}","timestamp":"2021-11-11T15:48:35.799Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-11T15:48:35.801Z"}

@@ -1,0 +1,52 @@
+{"level":"info","message":"Method:GET Path:/signup Request Body:{}","timestamp":"2021-11-12T06:41:55.411Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T06:41:55.413Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T06:42:42.156Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T06:42:42.159Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{\"first_name\":\"Taimoor\",\"last_name\":\"Adil\",\"email\":\"taimurad@hotmail.com\",\"password\":\"tab123\"}","timestamp":"2021-11-12T06:44:25.275Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T06:44:25.276Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T06:44:26.395Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T06:44:26.396Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T07:10:38.743Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:10:38.746Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T07:15:29.605Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:15:29.609Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T07:21:36.794Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:21:36.796Z"}
+{"level":"info","message":"Method:GET Path:/api/auth/login Request Body:{}","timestamp":"2021-11-12T07:21:59.575Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:21:59.576Z"}
+{"level":"info","message":"Method:GET Path:/api/auth/css/style.css Request Body:{}","timestamp":"2021-11-12T07:21:59.617Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:21:59.619Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T07:22:00.754Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:22:00.754Z"}
+{"level":"info","message":"Method:GET Path:/users Request Body:{}","timestamp":"2021-11-12T07:44:39.188Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:44:39.189Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T07:44:39.608Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:44:39.608Z"}
+{"level":"info","message":"Method:GET Path:/users/1 Request Body:{}","timestamp":"2021-11-12T07:44:43.813Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:44:43.814Z"}
+{"level":"info","message":"Method:GET Path:/users/css/style.css Request Body:{}","timestamp":"2021-11-12T07:44:43.858Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:44:43.858Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T07:44:44.186Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T07:44:44.186Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T08:38:28.243Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T08:38:28.244Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T08:38:30.768Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T08:38:30.769Z"}
+{"level":"info","message":"Method:GET Path:/signup Request Body:{}","timestamp":"2021-11-12T08:50:24.021Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T08:50:24.024Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T08:50:25.219Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T08:50:25.221Z"}
+{"level":"info","message":"Method:POST Path:/api/users Request Body:{\"first_name\":\"Tab\",\"last_name\":\"Adill\",\"email\":\"tab@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-12T08:50:42.368Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T08:50:42.369Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T08:50:43.242Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T08:50:43.245Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"tab@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-12T08:51:05.093Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T08:51:05.095Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T08:51:05.850Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T08:51:05.852Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T09:03:32.746Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T09:03:32.748Z"}
+{"level":"info","message":"Method:POST Path:/api/auth/login Request Body:{\"email\":\"tab@tab.com\",\"password\":\"tab123\"}","timestamp":"2021-11-12T09:03:45.208Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T09:03:45.209Z"}
+{"level":"info","message":"Method:GET Path:/favicon.ico Request Body:{}","timestamp":"2021-11-12T09:03:45.761Z"}
+{"level":"info","message":"--------------------------------------------------","timestamp":"2021-11-12T09:03:45.762Z"}
