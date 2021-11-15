@@ -14,8 +14,7 @@ Vehicle Tracking System - Version: 2021.1.00
 On the command prompt run the following commands:
 
 ``` 
- $ unzip folder
- $ Open folder in VS Code
+ $ https://github.com/Philanthropist80/vehicle-tracking-system-v01.git
  $ edit .env with your secret key and database information
  $ npm install
  $ npm run migrate (to create DB Schema)
