@@ -17,7 +17,3 @@ server.get('/swagger', (req, res) => {
     res.json(swagger);
  });
 
-// Swagger API documentation
-server.get('/map', authenticated,(req, res) => {
-  res.sendFile(path.join(__dirname, '../public/map/index.html'));
-}); 

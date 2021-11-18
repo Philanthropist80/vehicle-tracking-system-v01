@@ -15,7 +15,7 @@ import webpackConfig from '../webpack/webpack.config.dev';
 if (process.env.NODE_ENV === 'development') {
 
     const compiler = webpack(webpackConfig);
-    app.use(webpackDevMiddleware(compiler, {noInfo: true, publicPath: webpackConfig.output.publicPath}));
+    app.use(webpackDevMiddleware(compiler, { publicPath: webpackConfig.output.publicPath}));
     app.use(webpackHotMiddleware(compiler));
 }
 

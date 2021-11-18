@@ -125,7 +125,9 @@ const MiniDrawer = (props) => {
           <ListItemIcon>
             <MapIcon />
           </ListItemIcon>
-          <ListItemText primary="Maps" />
+          <Link to={"/map"}>
+            <ListItemText primary="Maps" />
+          </Link>
         </ListItem>
         <ListItem button>
           <ListItemIcon>

@@ -29,7 +29,13 @@ const config = {
         new Dotenv()
     ],
     module: {
-        rules: [
+        rules: [{
+            test: /\.css$/,
+            use: [
+            'style-loader',
+            'css-loader'
+            ]
+        },
             {
                 test: /\.(js|jsx)$/, //check for all js files
                 exclude: /(node_modules)/,
