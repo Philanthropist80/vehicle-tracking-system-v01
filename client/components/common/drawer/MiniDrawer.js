@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { bindActionCreators } from 'redux';
+import {Link} from 'react-router-dom'
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
@@ -99,19 +100,26 @@ const MiniDrawer = (props) => {
           <ListItemIcon>
             <HomeIcon />
           </ListItemIcon>
-          <ListItemText primary="Dashboard" />
+          <Link to={"/dashboard"}>
+            <ListItemText primary="Dashboard" />
+          </Link>
         </ListItem>
         <ListItem button>
           <ListItemIcon>
             <PersonIcon />
           </ListItemIcon>
-          <ListItemText primary="Users" />
+          <Link to={"/users"}>
+            <ListItemText primary="Users" />
+          </Link>
         </ListItem>
         <ListItem button>
           <ListItemIcon>
             <LocalTaxiIcon />
           </ListItemIcon>
-          <ListItemText primary="Vehicles" />
+          <Link to={"/vehicle"}>
+            <ListItemText primary="Vehicles" />
+          </Link>
+          
         </ListItem>
         <ListItem button>
           <ListItemIcon>
