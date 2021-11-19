@@ -49,18 +49,19 @@ function addMarkers(lonLatArray) {
   return features;
 }
 
-const App = () => {
+const Maps = () => {
   const [center, setCenter] = useState(mapConfig.center);
   const [zoom, setZoom] = useState(9);
 
-  const [showLayer1, setShowLayer1] = useState(true);
-  const [showLayer2, setShowLayer2] = useState(true);
-  const [showMarker, setShowMarker] = useState(false);
+  const [showLayer1, setShowLayer1] = useState(false);
+  const [showLayer2, setShowLayer2] = useState(false);
+  const [showMarker, setShowMarker] = useState(true);
 
   const [features, setFeatures] = useState(addMarkers(markersLonLat));
 
   return (
     <div>
+     <h2 style={{ paddingBottom: '15px' }}>Map</h2>
       <Map center={fromLonLat(center)} zoom={zoom}>
         <Layers>
           <TileLayer source={osm()} zIndex={0} />
@@ -119,4 +120,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Maps;

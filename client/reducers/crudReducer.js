@@ -8,9 +8,9 @@ import {
 } from '../constants/actionType';
 
 let initialState = {
-  products: [],
+  vehicles: [],
   selectedItem: {
-    product: {},
+    vehicle: {},
   },
 };
 

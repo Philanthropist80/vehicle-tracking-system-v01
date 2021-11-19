@@ -14,6 +14,7 @@ const AsyncLoginForm = loadable(() => import('../containers/auth/LoginContainer'
 const AsyncSignUpForm = loadable(() => import('../containers/auth/SignUpContainer'));
 const AsyncDashboard = loadable(() => import('../containers/dashboard/DashboardContainer'));
 const AsyncVehicle = loadable(() => import('../containers/vehicle/VehicleContainer'));
+const AsyncVehicleRegistration = loadable(() => import('../containers/vehicle/VehicleRegistrationContainer'));
 const AsyncUsers = loadable(() => import('../containers/users/UsersContainer'));
 const AsyncMaps = loadable(() => import('../containers/maps/MapsContainer'));
 
@@ -27,7 +28,7 @@ const Router = () => (
       <PrivateRoute exact path="/vehicle" layout={MainLayout} component={AsyncVehicle} />
       <PrivateRoute exact path="/users" layout={MainLayout} component={AsyncUsers} />
       <PrivateRoute exact path="/map" layout={MainLayout} component={AsyncMaps} />
-      //<PrivateRoute exact path="/map" layout={MainLayout} component={MapContainer} />
+      <PrivateRoute exect path="/vehicleregistration" layout={MainLayout} component={AsyncVehicleRegistration} />
 
       <Route component={NotFound} />
     </Switch>

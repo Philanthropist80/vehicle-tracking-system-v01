@@ -1,5 +1,5 @@
-
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { cyan, pink, purple, orange } from '@material-ui/core/colors';
 import { Grid } from '@material-ui/core';
 import {  Assessment, Face, AirportShuttle } from '@material-ui/icons';
@@ -12,7 +12,17 @@ const Vehicle = (props) => {
 
     return (
       <div>
-        <h2 style={{ paddingBottom: '15px' }}>Vehicles</h2>
+        <Grid container spacing={4} style={{marginBottom: 15}}>
+            <Grid item xs={6}>
+                <h2 style={{ paddingBottom: '15px' }}>Vehicles</h2>
+            </Grid>
+            <Grid item xs={6}>
+                <p style={{}}>
+                    Register and track your vehicle online. <Link to={'/vehicleregistration'}>Register Now!</Link>.
+                </p>
+            </Grid>
+        </Grid>
+        
   
         <Grid container spacing={4} style={{ marginBottom: '15px' }}>
           <Grid item lg={3} sm={3} xl={3} xs={3}>

@@ -1,30 +1,30 @@
 {
-    "center": [-94.9065, 38.9884],
+    "center": [73.0479, 33.6844],
     "geojsonObject": {
         "type": "FeatureCollection",
         "features": [
           {
             "type": "Feature",
             "properties": {
-              "kind": "county",
-              "name": "Wyandotte",
-              "state": "KS"
+              "kind": "city",
+              "name": "Islamabad",
+              "state": "ISB"
             },
             "geometry": {
               "type": "MultiPolygon",
               "coordinates": [
                 [
                   [
-                    [-94.8627, 39.202],
-                    [-94.901, 39.202],
-                    [-94.9065, 38.9884],
-                    [-94.8682, 39.0596],
-                    [-94.6053, 39.0432],
-                    [-94.6053, 39.1144],
-                    [-94.5998, 39.1582],
-                    [-94.7422, 39.1691],
-                    [-94.7751, 39.202],
-                    [-94.8627, 39.202]
+                    [73.0479, 33.6844],
+                    [73.047, 33.684],
+                    [73.0379, 33.6544],
+                    [73.0179, 33.6344],
+                    [73.0000, 33.6044],
+                    [73.0100, 33.6000],
+                    [73.0279, 33.6130],
+                    [73.0309, 33.6444],
+                    [73.0400, 33.6844],
+                    [73.0479, 33.6844]
                   ]
                 ]
               ]
@@ -38,24 +38,25 @@
           {
             "type": "Feature",
             "properties": {
-              "kind": "county",
-              "name": "Johnson",
-              "state": "KS"
+              "kind": "City",
+              "name": "Islamabad",
+              "state": "ISB"
             },
             "geometry": {
               "type": "MultiPolygon",
               "coordinates": [
                 [
                   [
-                    [-94.9065, 38.9884],
-                    [-95.0544, 38.9829],
-                    [-95.0544, 38.7365],
-                    [-94.9668, 38.7365],
-                    [-94.6108, 38.7365],
-                    [-94.6108, 38.846],
-                    [-94.6053, 39.0432],
-                    [-94.8682, 39.0596],
-                    [-94.9065, 38.9884]
+                    [73.0479, 33.6844],
+                    [73.047, 33.684],
+                    [73.0379, 33.6544],
+                    [73.0179, 33.6344],
+                    [73.0000, 33.6044],
+                    [73.0100, 33.6000],
+                    [73.0279, 33.6130],
+                    [73.0309, 33.6444],
+                    [73.0400, 33.6844],
+                    [73.0479, 33.6844]
                   ]
                 ]
               ]
@@ -63,8 +64,8 @@
           }
         ]
       },
-    "kansasCityLonLat": [-94.579228, 39.135386],
-    "blueSpringsLonLat": [-94.279851, 39.03412],
+    "kansasCityLonLat": [73.0479, 33.6844],
+    "blueSpringsLonLat": [73.0479, 33.6844],
     "markerImage24" : "https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-47-24.png",
     "markerImage32" : "https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-47-32.png",
     "markerImage64" : "https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-47-64.png"

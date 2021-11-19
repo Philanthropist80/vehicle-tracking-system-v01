@@ -63,14 +63,8 @@ export function findById(req, res) {
     const {code, description, model, chesis, engine, made_year, registration_year, owner, owner_phone, owner_email,user_id, created_by} = req.body;
     const status = true;
  
-    if (!created_by){
-        res.status(HttpStatus.INTERNAL_SERVER_ERROR).json({
-            error: "Please provide 'created_by' value"
-        });
-    }
-
-    Vehicle.forge({
-        code, description, model, chesis, engine, made_year, registration_year, owner, owner_phone, owner_email,user_id, created_by, status
+     Vehicle.forge({
+        code, description, model, chesis, engine, made_year, registration_year, owner, owner_phone, owner_email,user_id, status
     }).save()
         .then(user => res.json({
                 success: true,

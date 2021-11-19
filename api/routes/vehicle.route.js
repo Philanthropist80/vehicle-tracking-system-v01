@@ -75,11 +75,11 @@ const router = express.Router();
  *
  */
 
-router.route('/vehicle')
+router.route('/')
 
 /**
  * @swagger
- * /vehicles:
+ * /vehicle:
  *   post:
  *     tags:
  *       - vehicle
@@ -109,13 +109,14 @@ router.route('/vehicle')
  *             $ref: '#/definitions/Error'
  */
 
-    .post(validate(schema.storeVehicle), (req, res) => {
+    .post((req, res) => {
         vehicleCtrl.add(req, res);
+        
     })
 
     /**
      * @swagger
-     * /vehicles:
+     * /vehicle:
      *   get:
      *     tags:
      *       - vehicle
@@ -142,7 +143,7 @@ router.route('/vehicle:id')
 
 /**
  * @swagger
- * /vehicles/{id}:
+ * /vehicle/{id}:
  *   get:
  *     tags:
  *       - vehicle
@@ -175,7 +176,7 @@ router.route('/vehicle:id')
 
     /**
      * @swagger
-     * /vehicles/{id}:
+     * /vehicle/{id}:
      *   put:
      *     tags:
      *       - vehicle
@@ -214,7 +215,7 @@ router.route('/vehicle:id')
 
     /**
      * @swagger
-     * /vehicles/{id}:
+     * /vehicle/{id}:
      *   delete:
      *     tags:
      *       - vehicle

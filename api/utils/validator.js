@@ -19,10 +19,17 @@ export default {
 
     storeVehicle:
     Joi.object({
-        first_name: Joi.string().required(),
-        last_name: Joi.string().required(),
-        email: Joi.string().email().required(),
-        password: Joi.string().min(6).required()
+        code: Joi.string().required(),
+        description: Joi.string().required(),
+        model: Joi.string().required(),
+        chesis: Joi.string().required(),
+        engine: Joi.string().required(),
+        made_year: Joi.string().required(),
+        registration_year: Joi.string().required(),
+        owner: Joi.string().required(),
+        owner_phone: Joi.string().required(),
+        owner_email: Joi.string().email().required(),
+        user_id: Joi.string().required()
     }),
 
 updateVehicle: Joi.object({
@@ -34,10 +41,10 @@ updateVehicle: Joi.object({
 
 storeLocation:
     Joi.object({
-        first_name: Joi.string().required(),
-        last_name: Joi.string().required(),
-        email: Joi.string().email().required(),
-        password: Joi.string().min(6).required()
+        vehicle_id: Joi.string().required(),
+        description: Joi.string().required(),
+        longitute: Joi.number().required(),
+        latitude: Joi.number().required()
     }),
 
 updateLocation: Joi.object({
